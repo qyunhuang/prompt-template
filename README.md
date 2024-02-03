@@ -1,1 +1,1 @@
-# Some Useful OpenAI Prompt Template.
+# Some Useful OpenAI Prompt Template
